@@ -1610,7 +1610,7 @@ h5 + .separator {
   color: #000000;
 }
 .header-top.colored a {
-  color: #8B0000;
+  color: #00008B;
   text-decoration: underline;
 }
 .header-top.colored a:hover {
